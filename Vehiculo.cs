@@ -25,5 +25,12 @@ namespace TareaSobreOcultamientoYSobreescritura
             return 50.0; //Costo base de mantenimiento general
 
         }
+
+        //Creacion del metodo lavar 
+        public void Lavar()
+        {
+            Console.WriteLine("Lavando el Vehiculo");
+        }
+
     }
 }

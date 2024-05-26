@@ -24,6 +24,16 @@ namespace TareaSobreOcultamientoYSobreescritura
             return 150.0;//Costo del mantenimiento del coche
 
         }
+
+
+        //new es una palabra clave que indica que este metodo oculta un miembro heredado de una clase base con el
+        //mismo nombre ambos metodos
+        //La clase derivada crea una nueva definicion del metodo que no sobreescribe el metodo sino que lo oculta
+        public new void Lavar()
+        {
+            Console.WriteLine("Lavando el coche con cera y Shampoo especial");
+        }
+
     }
         
 }
