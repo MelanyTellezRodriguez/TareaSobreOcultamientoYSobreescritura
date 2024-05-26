@@ -1,0 +1,7 @@
+C:\Users\melany Tellez\OneDrive\Escritorio\TareaSobreOcultamientoYSobreescritura\bin\Debug\TareaSobreOcultamientoYSobreescritura.exe.config
+C:\Users\melany Tellez\OneDrive\Escritorio\TareaSobreOcultamientoYSobreescritura\bin\Debug\TareaSobreOcultamientoYSobreescritura.exe
+C:\Users\melany Tellez\OneDrive\Escritorio\TareaSobreOcultamientoYSobreescritura\bin\Debug\TareaSobreOcultamientoYSobreescritura.pdb
+C:\Users\melany Tellez\OneDrive\Escritorio\TareaSobreOcultamientoYSobreescritura\obj\Debug\TareaSobreOcultamientoYSobreescritura.csproj.AssemblyReference.cache
+C:\Users\melany Tellez\OneDrive\Escritorio\TareaSobreOcultamientoYSobreescritura\obj\Debug\TareaSobreOcultamientoYSobreescritura.csproj.CoreCompileInputs.cache
+C:\Users\melany Tellez\OneDrive\Escritorio\TareaSobreOcultamientoYSobreescritura\obj\Debug\TareaSobreOcultamientoYSobreescritura.exe
+C:\Users\melany Tellez\OneDrive\Escritorio\TareaSobreOcultamientoYSobreescritura\obj\Debug\TareaSobreOcultamientoYSobreescritura.pdb
